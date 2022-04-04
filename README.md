@@ -1,5 +1,11 @@
 # ToDO
-ToDo list project for midterm exam spring 2022
+ToDo list project for midterm exam spring
+Kayrat Kypchakbaev >> "Great work"
+Nurkyz Usupbekova >> "Excellent project"
+Zhibek Mukhtarbekova >> "I think this is a really good expamle of clear and good code, this application might be useful any time"
+
+
+
 
 
 <img src="https://github.com/NazarSeyitbekov/ToDO/blob/main/WhatsApp%20Image%202022-04-04%20at%2022.40.22%20(1).jpeg"/>
