@@ -1,8 +1,18 @@
 # ToDO
 ToDo list project for midterm exam spring
+
 Kayrat Kypchakbaev >> "Great work"
+
+
 Nurkyz Usupbekova >> "Excellent project"
+
+
 Zhibek Mukhtarbekova >> "I think this is a really good expamle of clear and good code, this application might be useful any time"
+
+
+Azimbek Mamatkerimov >> "this is fascinating idea for beginners who is learning C#"
+
+
 
 
 
